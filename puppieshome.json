@@ -1,14 +1,13 @@
 [
-    {
-        "id" : 12252012,
-        "name" : "Rainbow's End Pass",
-        "title" : "Rainbow's End - Unlimited Superpass",
-        "type" : "Entertainment",
-        "price" : 4199,
-        "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
-        "photo_large" : "https://upload.wikimedia.org/wikipedia/commons/6/66/Two_Great_Flamingos.jpg",
-        "photo_small1" : "https://upload.wikimedia.org/wikipedia/commons/6/66/Two_Great_Flamingos.jpg",
-        "photo_small2" : "https://upload.wikimedia.org/wikipedia/commons/6/66/Two_Great_Flamingos.jpg",
-        "photo_small3" : "https://upload.wikimedia.org/wikipedia/commons/6/66/Two_Great_Flamingos.jpg"
-    }
+  {
+  "id" : 12252012,
+  "title" : "Penny",
+  "name" : "Penny",
+  "breed" : "Dachshund",
+  "photo_large" : "http://www.raywenderlich.com/downloads/puppies/dachshund.jpeg",
+  "start_time" : 5,
+  "end_time" : 5,
+  "price" : 29999,
+  "description" : "hello hello hello"
+  }
 ]
